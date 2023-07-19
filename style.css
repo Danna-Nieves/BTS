@@ -1,0 +1,246 @@
+.title-bagtan{
+    font-size: 230%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title-BTS{
+    text-align: center;
+    font-size: 130%;
+    font-family: 'Kaushan Script', cursive;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    background-image: radial-gradient(circle, rgb(198, 249, 255) 39%, rgb(255, 219, 251) 96%);
+    background-size: 100px 50px;
+    background-repeat: repeat;
+    background-size: 100%;
+    
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    
+}
+
+header nav{
+    display: flex;
+    justify-content: center;
+    
+}
+
+header nav .navegacion{
+    background-color: rgb(222, 174, 250);
+    list-style: none;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+nav .navegacion a{
+    color: black;
+    text-decoration: none;
+    margin: 70px;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.integrantes{
+    image-resolution: 72px;
+    width: 100%;
+    height: 0%;
+}
+
+.p-RM{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.rm{
+    width: 400px;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    left: 100px;
+    bottom: 70px;
+}
+
+.p-suga{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.imagen-suga{
+    width: 400px;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+
+.p-jin{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.imagen-jin{
+    width: 400px;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    left: 100px;
+    bottom: 60px;
+}
+
+.p-j-hope{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.imagen-hope{
+    width: 400px;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    left: 150px;
+    top: 130px;
+}
+
+.p-jimin{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.imagen-jimin{
+    width: 400px;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    left: 100px;
+    bottom: 60px;
+}
+
+.p-tae{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.imagen-v{
+    width: 400px;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    left: 150px;
+    top: 80px;
+}
+
+.p-kookie{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.imagen-kookie{
+    width: 400px;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    left: 100px;
+    bottom: 150px;
+}
+
+.p-origenes{
+    text-align: justify;
+    columns: 2;
+    hyphens: auto;
+}
+
+.video-bts{
+    width: 50%;
+    position: relative;
+    left: 380px;
+    border-radius: 20px;
+}
+
+.p-trayectoria{
+    columns: 3;
+    text-align: justify;
+    hyphens: auto;
+}
+
+.p-continuacion{
+    columns: 2;
+    text-align: justify;
+    hyphens: auto;
+}
+
+.Infografia{
+    width: 100%;
+}
+
+.linea{
+    width: 100%;
+}
+
+.revistas{
+    width: 100%;
+}
+
+.un-sueño{
+    text-align: center;
+}
+
+.p-sueño{
+    columns: 2;
+    text-align: justify;
+    hyphens: auto;
+}
+
+.title-estrellato{
+    text-align: center;
+}
+
+.title-trayectoria{
+    text-align: center;
+}
+
+.title-origenes{
+    text-align: center;
+}
+
+.title-integrantes{
+    text-align: center;
+}
+
+.final{
+    image-resolution: 72px;
+    border-radius: 60px;
+    width: 70%;
+    position: relative;
+    left: 220px;
+}
+
+.spring-day{
+    width: 80%;
+    position: relative;
+    left: 180px;
+    border-radius: 20px;
+}
+
+.mic-drop{
+    width: 200px;
+    position: relative;
+    left: 100px;
+    border-radius: 30px;
+}
